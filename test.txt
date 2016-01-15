@@ -1,1 +1,6 @@
 hello change
+
+
+git add .
+git commit – m „Kommentar frei wählbar“
+git push –u orgin master
